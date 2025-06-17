@@ -1,5 +1,5 @@
 # OrganiseBest
-# 🗓️ Daily Planner + Habit Tracker Backend
+# Daily Planner + Habit Tracker Backend
 
 This is a simple backend application built using **Spring Boot** and **MongoDB**, designed to support user registration, task management, and habit tracking functionality.
 
@@ -17,7 +17,7 @@ This is a simple backend application built using **Spring Boot** and **MongoDB**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tech            | Description                     |
 |-----------------|---------------------------------|
@@ -29,7 +29,7 @@ This is a simple backend application built using **Spring Boot** and **MongoDB**
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1️⃣ Prerequisites
 
